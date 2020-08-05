@@ -1,7 +1,6 @@
 # 【FizzBuzz問題】新しい言語に挑戦する時用の基礎文法確認
 
 上記に対する成果物  
-1行で書くために調べたことを[answer.md](./answer.md)に乗せてます
 
 ## 要件
 
@@ -15,6 +14,12 @@
 ## 実行環境
 
 ruby 2.7.1
+
+## 実行方法
+
+    git clone https://github.com/amano-hiiragi/techcommit_fizzbuzz_01
+    cd techcommit_fizzbuzz_01
+    ruby fizzbuzz.rb
 
 ## その他感想
 
